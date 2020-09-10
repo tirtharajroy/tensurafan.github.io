@@ -26,7 +26,7 @@ class Trie():
 
     def add(self, word):
         ref = self.data
-        for char in word:
+        for char in word.upper():
             ref[char] = char in ref and ref[char] or {}
             ref = ref[char]
         ref[''] = 1
@@ -219,9 +219,18 @@ for key,value in terms.items():
     entries[key]["options"] = value
     entries[key]["officialTermIndex"] = termYenIndex[key]
 
-for key,value in list(termGroups.items()):
-    if not value:
-        del termGroups[key]
+for groupname,grouplist in list(termGroups.items()):
+    if not grouplist:
+        print(f"WARNING: {groupname} is empty, removing group...")
+        del termGroups[groupname]
+        continue
+
+    # Validate existance of referenced terms due to the * inclusion
+    for ref in list(grouplist):
+        if ref not in terms.keys():
+            print(f"WARNING: {ref} referenced in group {groupname}, but not included in terms. Removing from group...")
+            grouplist.remove(ref)
+
 
 jdata = dict()
 jdata["pattern"] = trie_regex_from_words(terms.keys()).pattern

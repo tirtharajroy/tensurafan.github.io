@@ -1,5 +1,5 @@
 {
-    "pattern": "(?:A(?:b(?:il|normal\\ Condition\\ (?:Nullification|Resistance))|dalman|gera|lvis|n(?:aly(?:st|ze\\ and\\ Assess)|nihilation\\ King|rietta)|rno|ubert)|B(?:acchus|e(?:astketeers|nimaru)|onnie|yakuren)|C(?:a(?:bal|lgurio|rrera)|ha(?:nt\\ Cancellation|os\\ King|r(?:ity\\ King|m\\ Control\\?))|ie[ln]|o(?:n(?:tinent’s\\ Wrath|viction\\ King)|ok|rrosion|scia\\ Mountains|venant\\ King))|D(?:agruel|e(?:ath\\ King|mon\\ Lord(?:\\ Haki)?|viant)|i(?:ablo|no|vine\\ (?:Flame\\ King|Machine\\ King))|o(?:rf|uble(?:\\ Digit|\\-Crosser))|ragon\\ (?:Worshippers|of\\ (?:F(?:lame|rost)|Hurtling\\ Wind)))|E(?:dmalis|l(?:a(?:lude|ure)|en|wyn)|nchou|sprit|ye\\ of\\ the\\ Moon)|F(?:a(?:iry\\ of\\ the\\ Labyrinth|rmus)|e(?:llagha|rtility\\ King)|o(?:otman|rgotten\\ City\\ of\\ Dragons)|r(?:eedom\\ Association|itz))|G(?:a(?:bil|dra|le|te\\ of\\ Hell)|e(?:ld|neralissimo|rald|tt)|l(?:adium|uttonous\\ King)|o(?:b(?:emon|kyu|lin\\ Riders|ta|ua)|rdon|urmet)|r(?:a(?:nbell|sse)|ee(?:dy\\ King|n\\ Rebellion)|igori|ucius)|u(?:ar(?:anteed\\ Outcome|dian\\ Colossus)|y))|H(?:a(?:kurou|rpy\\ Nation)|e(?:at\\ King|rcules\\ Ex)|i(?:nata|ryuu)|o(?:kusou|ly(?:\\ (?:Knight(?:\\ Order)?|Puri­fic­a­tion\\ Bar­rier)|\\-Demonic\\ Attack\\ Resistance)|pe\\ King))|I(?:gami|llusion\\ King|mperial\\ (?:Guard(?:ians|s)|Knight)|n(?:finite\\ Prison|gracia|vestigation\\ (?:King|of\\ Truth)))|J(?:ane|esta|i(?:stav|u)|ustice\\ King)|K(?:arion|ijin|okuso|ur(?:enai|obee))|L(?:a(?:rzen|w\\ Manipulation)|ilina|u(?:cky\\ Devil|stful\\ King))|M(?:a(?:gic\\ Perception|jins?|riabell|sayuki)|ental\\ (?:Attack\\ (?:Nullification|Resistance)|C(?:ontrol|rush))|i(?:dley|nk|sha|zari)|oss|y(?:ourmiles|rd|uran))|N(?:a(?:nsou|tural\\ Effects\\ (?:Nullification|Resistance))|icolas)|Oboro\\-Ryu|P(?:a(?:in\\ (?:Nullification|Resistance)|nn|tience\\ King)|erfect\\ Memory|h(?:obio|ysical\\ Attack\\ (?:Nullification|Resistance))|oison\\ King|r(?:ide\\ King|obability\\ Manipulation)|sychology\\ King|unitive\\ Control\\?)|Queen\\ Worship|R(?:a(?:bbitm(?:an|en)|in|yhiem)|e(?:iner|ynald)|i(?:muru|tase)|osso|u(?:berios|min(?:as|is[mt])))|S(?:a(?:ge|r(?:ion|e))|corch\\ King|even\\ Celestial(?:\\ Saints|s)|h(?:adow\\ Step|i(?:ning|on)|una)|i(?:ltorozzo|ngle\\ Digit)|kill\\ Storage|loth\\ King|niper|o(?:rcerer’s\\ Dynasty|u(?:ei|ka|l\\ Consumption))|p(?:a(?:cetime\\ King|tial\\ Movement)|irit\\ Core)|t(?:arved|ellar\\ Wind\\ King|orm\\ (?:Dragon\\ (?:Restoration|Summon)|King))|uphia)|T(?:e(?:ar|mptation\\ King|starossa)|h(?:e\\ Tempest\\ Federation|ought\\ Acceleration|rower)|ime\\ Travel|ouka|r(?:eyni|iss|ya))|U(?:lt(?:ima|ra\\ Instinct)|niversal\\ Perception)|V(?:e(?:l(?:dora|grynd)|nom|yron)|oi(?:ce\\ of\\ the\\ World|d\\ God))|W(?:isdom\\ King|orld\\ of\\ Temptation)|Y(?:o(?:da|migaeri|um)|uu(?:ki|razania))|Zonda|archdemon|d(?:ark\\ elf|e(?:mon(?:(?:\\ (?:lord|peer)|s))?|vil\\ chevalier)|warf)|elf|g(?:reater\\ demon|uardian\\ golem)|high\\ elf|javelin|kijin|lesser\\ demon|ma(?:gic\\ marble|jins?)|primordial|rabbitm(?:an|en)|the\\ Tempest\\ Federation|undead\\ elf)",
+    "pattern": "(?:A(?:B(?:IL|NORMAL\\ CONDITION\\ (?:NULLIFICATION|RESISTANCE))|DALMAN|GERA|LVIS|N(?:ALY(?:ST|ZE\\ AND\\ ASSESS)|NIHILATION\\ KING|RIETTA)|R(?:CHDEMON|NO)|UBERT)|B(?:ACCHUS|E(?:AST(?:\\ MASTER|KETEERS|M(?:AN|EN))|NIMARU)|ONNIE|YAKUREN)|C(?:A(?:BAL|LGURIO|RRERA)|HA(?:NT\\ CANCELLATION|OS\\ KING|R(?:ITY\\ KING|M\\ CONTROL\\?))|IE[LN]|O(?:N(?:TINENT’S\\ WRATH|VICTION\\ KING)|OK|RROSION|SCIA\\ MOUNTAINS|VENANT\\ KING))|D(?:A(?:GRUEL|RK\\ ELF)|E(?:ATH\\ KING|MON(?:(?:\\ (?:LORD(?:\\ HAKI)?|PEER)|S))?|VI(?:ANT|L\\ CHEVALIER))|I(?:ABLO|NO|VINE\\ (?:FLAME\\ KING|MACHINE\\ KING))|O(?:RF|UBLE(?:\\ DIGIT|\\-CROSSER))|RAGON\\ (?:OF\\ (?:F(?:LAME|ROST)|HURTLING\\ WIND)|WORSHIPPERS)|WARF)|E(?:DMALIS|L(?:A(?:LUDE|URE)|EN|WYN|F)|NCHOU|SPRIT|YE\\ OF\\ THE\\ MOON)|F(?:A(?:IRY\\ OF\\ THE\\ LABYRINTH|RMUS)|E(?:LLAGHA|RTILITY\\ KING)|O(?:OTMAN|RGOTTEN\\ CITY\\ OF\\ DRAGONS|UNDING\\ FESTIVAL)|R(?:EEDOM\\ ASSOCIATION|ITZ))|G(?:A(?:BIL|DRA|LE|TE\\ OF\\ HELL)|E(?:LD|NERALISSIMO|RALD|TT)|L(?:ADIUM|UTTONOUS\\ KING)|O(?:B(?:EMON|KYU|LIN\\ RIDERS|TA|UA)|RDON|URMET)|R(?:A(?:NBELL|SSE)|E(?:ATER\\ DEMON|E(?:DY\\ KING|N\\ REBELLION))|IGORI|UCIUS)|U(?:AR(?:ANTEED\\ OUTCOME|DIAN\\ (?:COLOSSUS|GOLEM))|Y))|H(?:A(?:K(?:UROU|I)|RPY\\ NATION)|E(?:AT\\ KING|RCULES\\ EX)|I(?:GH\\ ELF|NATA|RYUU)|O(?:KUSOU|LY(?:\\ (?:KNIGHT(?:\\ ORDER)?|PURI­FIC­A­TION\\ BAR­RIER)|\\-DEMONIC\\ ATTACK\\ RESISTANCE)|PE\\ KING))|I(?:GAMI|LLUSION\\ KING|MPERIAL\\ (?:GUARD(?:IANS|S)|KNIGHT)|N(?:FINITE\\ PRISON|GRACIA|VESTIGATION\\ (?:KING|OF\\ TRUTH)))|J(?:A(?:NE|VELIN)|ESTA|I(?:STAV|U)|USTICE\\ KING)|K(?:ARION|IJIN|OKUSO|UR(?:ENAI|OBEE))|L(?:A(?:RZEN|W\\ MANIPULATION)|ESSER\\ DEMON|ILINA|U(?:CKY\\ DEVIL|STFUL\\ KING))|M(?:A(?:GIC\\ (?:LORD|MARBLE|PERCEPTION)|JINS?|RIABELL|SAYUKI)|ENTAL\\ (?:ATTACK\\ (?:NULLIFICATION|RESISTANCE)|C(?:ONTROL|RUSH))|I(?:DLEY|NK|SHA|ZARI)|OSS|Y(?:OURMILES|RD|URAN))|N(?:A(?:NSOU|TURAL\\ EFFECTS\\ (?:NULLIFICATION|RESISTANCE))|ICOLAS)|OBORO\\-RYU|P(?:A(?:IN\\ (?:NULLIFICATION|RESISTANCE)|NN|TIENCE\\ KING)|ERFECT\\ MEMORY|H(?:OBIO|YSICAL\\ ATTACK\\ (?:NULLIFICATION|RESISTANCE))|OISON\\ KING|R(?:I(?:DE\\ KING|MORDIAL)|OBABILITY\\ MANIPULATION)|SYCHOLOGY\\ KING|UNITIVE\\ CONTROL\\?)|QUEEN\\ WORSHIP|R(?:A(?:BBITM(?:AN|EN)|IN|YHIEM|ZUL)|E(?:INER|YNALD)|I(?:MURU|TASE)|OSSO|U(?:BERIOS|MIN(?:AS|IS[MT])))|S(?:A(?:GE|R(?:ION|E))|CORCH\\ (?:DRAGON|KING)|EVEN\\ CELESTIAL(?:\\ SAINTS|S)|H(?:ADOW\\ STEP|I(?:NING|ON)|UNA)|I(?:DEL|LTOROZZO|NGLE\\ DIGIT)|KILL\\ STORAGE|LOTH\\ KING|NIPER|O(?:RCERER’S\\ DYNASTY|U(?:EI|KA|L\\ CONSUMPTION))|P(?:A(?:CETIME\\ KING|TIAL\\ MOVEMENT)|IRIT\\ CORE)|T(?:ARVED|ELLAR\\ WIND\\ KING|ORM\\ (?:DRAGON(?:\\ (?:RESTORATION|SUMMON))?|KING))|UPHIA)|T(?:E(?:AR|MPTATION\\ KING|STAROSSA)|H(?:E\\ TEMPEST\\ FEDERATION|OUGHT\\ ACCELERATION|ROWER)|IME\\ TRAVEL|OUKA|R(?:EYNI|ISS|YA))|U(?:LT(?:IMA|RA\\ INSTINCT)|N(?:DEAD\\ ELF|IVERSAL\\ PERCEPTION))|V(?:E(?:NOM|YRON)|OI(?:CE\\ OF\\ THE\\ WORLD|D\\ GOD))|W(?:ISDOM\\ KING|ORLD\\ OF\\ TEMPTATION)|Y(?:O(?:DA|MIGAERI|U(?:KI|M))|UU(?:KI|RAZANIA))|ZONDA)",
     "terms": {
         "Rimuru": {
             "options": [
@@ -387,12 +387,26 @@
             ],
             "officialTermIndex": 1
         },
+        "Sidel": {
+            "options": [
+                "Sidel",
+                "Cider"
+            ],
+            "officialTermIndex": 0
+        },
         "Rayhiem": {
             "options": [
                 "Rayhiem",
                 "Reyhiem"
             ],
             "officialTermIndex": 1
+        },
+        "Razul": {
+            "options": [
+                "Razul",
+                "Lancelot"
+            ],
+            "officialTermIndex": 0
         },
         "Calgurio": {
             "options": [
@@ -608,16 +622,16 @@
             ],
             "officialTermIndex": 1
         },
-        "Veldora": {
+        "Storm Dragon": {
             "options": [
-                "Veldora",
+                "Storm Dragon",
                 "Tsundere Dragon"
             ],
             "officialTermIndex": 0
         },
-        "Velgrynd": {
+        "Scorch Dragon": {
             "options": [
-                "Velgrynd",
+                "Scorch Dragon",
                 "Yandere Dragon"
             ],
             "officialTermIndex": 0
@@ -658,6 +672,13 @@
                 "Deeno"
             ],
             "officialTermIndex": 1
+        },
+        "Beast Master": {
+            "options": [
+                "Beast Master",
+                "Furry Master"
+            ],
+            "officialTermIndex": 0
         },
         "Diablo": {
             "options": [
@@ -722,6 +743,13 @@
             "options": [
                 "Cien",
                 "Cadillac Cien"
+            ],
+            "officialTermIndex": 0
+        },
+        "Magic Lord": {
+            "options": [
+                "Magic Lord",
+                "Demon Lord"
             ],
             "officialTermIndex": 0
         },
@@ -1595,6 +1623,20 @@
             ],
             "officialTermIndex": 1
         },
+        "haki": {
+            "options": [
+                "haki",
+                "aura"
+            ],
+            "officialTermIndex": 1
+        },
+        "youki": {
+            "options": [
+                "youki",
+                "aura"
+            ],
+            "officialTermIndex": 1
+        },
         "majin": {
             "options": [
                 "majin",
@@ -1781,6 +1823,20 @@
             ],
             "officialTermIndex": 0
         },
+        "beastmen": {
+            "options": [
+                "beastmen",
+                "furries"
+            ],
+            "officialTermIndex": 0
+        },
+        "beastman": {
+            "options": [
+                "beastman",
+                "furry"
+            ],
+            "officialTermIndex": 0
+        },
         "Imperial Guardians": {
             "options": [
                 "Imperial Guardians",
@@ -1859,6 +1915,14 @@
             ],
             "officialTermIndex": 0
         },
+        "Founding Festival": {
+            "options": [
+                "Founding Festival",
+                "Founder's Fesitval",
+                "Opening Festival"
+            ],
+            "officialTermIndex": 1
+        },
         "Holy Puri­fic­a­tion Bar­rier": {
             "options": [
                 "Holy Puri­fic­a­tion Bar­rier",
@@ -1907,7 +1971,8 @@
             "Grucius",
             "Alvis",
             "Suphia",
-            "Phobio"
+            "Phobio",
+            "Beast Master"
         ],
         "Sarion": [
             "Elalude",
@@ -1932,7 +1997,9 @@
         "Rosso": [
             "Rosso",
             "Granbell",
-            "Mariabell"
+            "Mariabell",
+            "Sidel",
+            "Razul"
         ],
         "Farmus": [
             "Youm",
@@ -1990,8 +2057,8 @@
             "Sare"
         ],
         "True Dragons": [
-            "Veldora",
-            "Velgrynd"
+            "Storm Dragon",
+            "Scorch Dragon"
         ],
         "Octagram": [
             "Guy",
@@ -2001,8 +2068,8 @@
             "Ruminas",
             "Dino",
             "Rimuru",
-            "Tempest",
-            "Karion"
+            "Karion",
+            "Beast Master"
         ],
         "Demons": [
             "Diablo",
@@ -2012,9 +2079,9 @@
             "Mizari",
             "Rain",
             "Guy",
-            "Crimson",
             "Venom",
             "Cien",
+            "Magic Lord",
             "Moss",
             "Veyron",
             "Zonda",
@@ -2141,7 +2208,9 @@
             "Hiryuu",
             "javelin",
             "Oboro-Ryu",
-            "Hercules Ex"
+            "Hercules Ex",
+            "haki",
+            "youki"
         ],
         "Races and species": [
             "majin",
@@ -2170,6 +2239,8 @@
             "dark elf",
             "undead elf",
             "dwarf",
+            "beastmen",
+            "beastman",
             "Imperial Guardians",
             "Imperial Knight",
             "Single Digit",
@@ -2180,7 +2251,8 @@
             "Yoda",
             "Mink",
             "Enchou",
-            "Igami"
+            "Igami",
+            "Founding Festival"
         ],
         "Magic": [
             "Holy Puri­fic­a­tion Bar­rier"
