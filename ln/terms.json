@@ -1,11 +1,11 @@
 {
-    "pattern": "(?:A(?:B(?:IL|NORMAL\\ CONDITION\\ (?:NULLIFICATION|RESISTANCE))|DALMAN|GERA|LVIS|N(?:ALY(?:ST|ZE\\ AND\\ ASSESS)|NIHILATION\\ KING|RIETTA)|R(?:CHDEMON|NO)|UBERT)|B(?:ACCHUS|E(?:AST(?:\\ MASTER|KETEERS|M(?:AN|EN))|NIMARU)|ONNIE|YAKUREN)|C(?:A(?:BAL|LGURIO|RRERA)|HA(?:NT\\ CANCELLATION|OS\\ KING|R(?:ITY\\ KING|M\\ CONTROL\\?))|IE[LN]|O(?:N(?:TINENT’S\\ WRATH|VICTION\\ KING)|OK|RROSION|SCIA\\ MOUNTAINS|VENANT\\ KING))|D(?:A(?:GRUEL|RK\\ ELF)|E(?:ATH\\ KING|MON(?:(?:\\ (?:LORD(?:\\ HAKI)?|PEER)|S))?|VI(?:ANT|L\\ CHEVALIER))|I(?:ABLO|NO|VINE\\ (?:FLAME\\ KING|MACHINE\\ KING))|O(?:RF|UBLE(?:\\ DIGIT|\\-CROSSER))|RAGON\\ (?:OF\\ (?:F(?:LAME|ROST)|HURTLING\\ WIND)|WORSHIPPERS)|WARF)|E(?:DMALIS|L(?:A(?:LUDE|URE)|EN|WYN|F)|NCHOU|SPRIT|YE\\ OF\\ THE\\ MOON)|F(?:A(?:IRY\\ OF\\ THE\\ LABYRINTH|RMUS)|E(?:LLAGHA|RTILITY\\ KING)|O(?:OTMAN|RGOTTEN\\ CITY\\ OF\\ DRAGONS|UNDING\\ FESTIVAL)|R(?:EEDOM\\ ASSOCIATION|ITZ))|G(?:A(?:BIL|DRA|LE|TE\\ OF\\ HELL)|E(?:LD|NERALISSIMO|RALD|TT)|L(?:ADIUM|UTTONOUS\\ KING)|O(?:B(?:EMON|KYU|LIN\\ RIDERS|TA|UA)|RDON|URMET)|R(?:A(?:NBELL|SSE)|E(?:ATER\\ DEMON|E(?:DY\\ KING|N\\ REBELLION))|IGORI|UCIUS)|U(?:AR(?:ANTEED\\ OUTCOME|DIAN\\ (?:COLOSSUS|GOLEM))|Y))|H(?:A(?:K(?:UROU|I)|RPY\\ NATION)|E(?:AT\\ KING|RCULES\\ EX)|I(?:GH\\ ELF|NATA|RYUU)|O(?:KUSOU|LY(?:\\ (?:KNIGHT(?:\\ ORDER)?|PURI­FIC­A­TION\\ BAR­RIER)|\\-DEMONIC\\ ATTACK\\ RESISTANCE)|PE\\ KING))|I(?:GAMI|LLUSION\\ KING|MPERIAL\\ (?:GUARD(?:IANS|S)|KNIGHT)|N(?:FINITE\\ PRISON|GRACIA|VESTIGATION\\ (?:KING|OF\\ TRUTH)))|J(?:A(?:NE|VELIN)|ESTA|I(?:STAV|U)|USTICE\\ KING)|K(?:ARION|IJIN|OKUSO|UR(?:ENAI|OBEE))|L(?:A(?:RZEN|W\\ MANIPULATION)|ESSER\\ DEMON|ILINA|U(?:CKY\\ DEVIL|STFUL\\ KING))|M(?:A(?:GIC\\ (?:LORD|MARBLE|PERCEPTION)|JINS?|RIABELL|SAYUKI)|ENTAL\\ (?:ATTACK\\ (?:NULLIFICATION|RESISTANCE)|C(?:ONTROL|RUSH))|I(?:DLEY|NK|SHA|ZARI)|OSS|Y(?:OURMILES|RD|URAN))|N(?:A(?:NSOU|TURAL\\ EFFECTS\\ (?:NULLIFICATION|RESISTANCE))|ICOLAS)|OBORO\\-RYU|P(?:A(?:IN\\ (?:NULLIFICATION|RESISTANCE)|NN|TIENCE\\ KING)|ERFECT\\ MEMORY|H(?:OBIO|YSICAL\\ ATTACK\\ (?:NULLIFICATION|RESISTANCE))|OISON\\ KING|R(?:I(?:DE\\ KING|MORDIAL)|OBABILITY\\ MANIPULATION)|SYCHOLOGY\\ KING|UNITIVE\\ CONTROL\\?)|QUEEN\\ WORSHIP|R(?:A(?:BBITM(?:AN|EN)|IN|YHIEM|ZUL)|E(?:INER|YNALD)|I(?:MURU|TASE)|OSSO|U(?:BERIOS|MIN(?:AS|IS[MT])))|S(?:A(?:GE|R(?:ION|E))|CORCH\\ (?:DRAGON|KING)|EVEN\\ CELESTIAL(?:\\ SAINTS|S)|H(?:ADOW\\ STEP|I(?:NING|ON)|UNA)|I(?:DEL|LTOROZZO|NGLE\\ DIGIT)|KILL\\ STORAGE|LOTH\\ KING|NIPER|O(?:RCERER’S\\ DYNASTY|U(?:EI|KA|L\\ CONSUMPTION))|P(?:A(?:CETIME\\ KING|TIAL\\ MOVEMENT)|IRIT\\ CORE)|T(?:ARVED|ELLAR\\ WIND\\ KING|ORM\\ (?:DRAGON(?:\\ (?:RESTORATION|SUMMON))?|KING))|UPHIA)|T(?:E(?:AR|MPTATION\\ KING|STAROSSA)|H(?:E\\ TEMPEST\\ FEDERATION|OUGHT\\ ACCELERATION|ROWER)|IME\\ TRAVEL|OUKA|R(?:EYNI|ISS|YA))|U(?:LT(?:IMA|RA\\ INSTINCT)|N(?:DEAD\\ ELF|IVERSAL\\ PERCEPTION))|V(?:E(?:NOM|YRON)|OI(?:CE\\ OF\\ THE\\ WORLD|D\\ GOD))|W(?:ISDOM\\ KING|ORLD\\ OF\\ TEMPTATION)|Y(?:O(?:DA|MIGAERI|U(?:KI|M))|UU(?:KI|RAZANIA))|ZONDA)",
+    "pattern": "(?:A(?:B(?:IL|NORMAL\\ CONDITION\\ (?:NULLIFICATION|RESISTANCE))|DALMAN|GERA|LVIS|N(?:ALY(?:ST|ZE\\ AND\\ ASSESS)|NIHILATION\\ KING|RIETTA)|R(?:CHDEMON|NO)|UBERT)|B(?:ACCHUS|E(?:AST(?:\\ MASTER|KETEERS|M(?:AN|EN))|NIMARU)|ONNIE|YAKUREN)|C(?:A(?:BAL|LGURIO|RRERA)|H(?:A(?:NT\\ CANCELLATION|OS\\ KING|R(?:ITY\\ KING|M\\ CONTROL\\?))|RONOA)|IE[LN]|O(?:N(?:TINENT’S\\ WRATH|VICTION\\ KING)|OK|RROSION|SCIA\\ MOUNTAINS|VENANT\\ KING))|D(?:A(?:GRUEL|RK\\ ELF)|E(?:ATH\\ KING|MON(?:(?:\\ (?:LORD(?:\\ HAKI)?|PEER)|S))?|VI(?:ANT|L\\ CHEVALIER))|I(?:ABLO|NO|VINE\\ (?:FLAME\\ KING|MACHINE\\ KING))|O(?:RF|UBLE(?:\\ DIGIT|\\-CROSSER))|RAGON\\ (?:OF\\ (?:F(?:LAME|ROST)|HURTLING\\ WIND)|WORSHIPPERS)|WARF)|E(?:DMALIS|L(?:A(?:LUDE|URE)|EN|WYN|F)|NCHOU|SPRIT|YE\\ OF\\ THE\\ MOON)|F(?:A(?:IRY\\ OF\\ THE\\ LABYRINTH|RMUS)|E(?:LLAGHA|RTILITY\\ KING)|O(?:OTMAN|RGOTTEN\\ CITY\\ OF\\ DRAGONS|UNDING\\ FESTIVAL)|R(?:EEDOM\\ ASSOCIATION|ITZ))|G(?:A(?:BIL|DRA|LE|TE\\ OF\\ HELL)|E(?:LD|NERALISSIMO|RALD|TT)|L(?:ADIUM|UTTONOUS\\ KING)|O(?:B(?:EMON|KYU|LIN\\ RIDERS|TA|UA)|RDON|URMET)|R(?:A(?:NBELL|SSE)|E(?:ATER\\ DEMON|E(?:DY\\ KING|N\\ REBELLION))|IGORI|UCIUS)|U(?:AR(?:ANTEED\\ OUTCOME|DIAN\\ (?:COLOSSUS|GOLEM))|Y))|H(?:A(?:K(?:UROU|I)|RPY\\ NATION)|E(?:AT\\ KING|RCULES\\ EX)|I(?:GH\\ ELF|NATA|RYUU)|O(?:KUSOU|LY(?:\\ (?:KNIGHT(?:\\ ORDER)?|PURI­FIC­A­TION\\ BAR­RIER)|\\-DEMONIC\\ ATTACK\\ RESISTANCE)|PE\\ KING))|I(?:GAMI|LLUSION\\ KING|MPERIAL\\ (?:GUARD(?:IANS|S)|KNIGHT)|N(?:FINITE\\ PRISON|GRACIA|VESTIGATION\\ (?:KING|OF\\ TRUTH)))|J(?:A(?:NE|VELIN)|ESTA|I(?:STAV|U)|USTICE\\ KING)|K(?:ARION|IJIN|OKUSO|UR(?:ENAI|OBEE))|L(?:A(?:RZEN|W\\ MANIPULATION)|ESSER\\ DEMON|ILINA|U(?:CKY\\ DEVIL|STFUL\\ KING))|M(?:A(?:GIC\\ (?:LORD|MARBLE|PERCEPTION)|JINS?|RIABELL|SAYUKI)|ENTAL\\ (?:ATTACK\\ (?:NULLIFICATION|RESISTANCE)|C(?:ONTROL|RUSH))|I(?:DLEY|LLION\\-CLASS|NK|SHA|ZARI)|OSS|Y(?:OURMILES|RD|URAN))|N(?:A(?:NSOU|TURAL\\ EFFECTS\\ (?:NULLIFICATION|RESISTANCE))|ICOLAS)|OBORO\\-RYU|P(?:A(?:IN\\ (?:NULLIFICATION|RESISTANCE)|NN|TIENCE\\ KING)|ERFECT\\ MEMORY|H(?:OBIO|YSICAL\\ ATTACK\\ (?:NULLIFICATION|RESISTANCE))|OISON\\ KING|R(?:I(?:DE\\ KING|MORDIAL)|OBABILITY\\ MANIPULATION)|SYCHOLOGY\\ KING|UNITIVE\\ CONTROL\\?)|QUEEN\\ WORSHIP|R(?:A(?:BBITM(?:AN|EN)|IN|YHIEM|ZUL)|E(?:INER|YNALD)|I(?:MURU|TASE)|OSSO|U(?:BERIOS|MIN(?:AS|IS[MT])))|S(?:A(?:GE|R(?:ION|E))|CORCH\\ (?:DRAGON|KING)|EVEN\\ CELESTIAL(?:\\ SAINTS|S)|H(?:ADOW\\ STEP|I(?:NING|ON)|UNA)|I(?:DEL|LTOROZZO|NGLE\\ DIGIT)|KILL\\ STORAGE|LOTH\\ KING|NIPER|O(?:RCERER’S\\ DYNASTY|U(?:EI|KA|L\\ CONSUMPTION))|P(?:A(?:CETIME\\ KING|TIAL\\ MOVEMENT)|IRIT\\ CORE)|T(?:ARVED|ELLAR\\ WIND\\ KING|ORM\\ (?:DRAGON(?:\\ (?:RESTORATION|SUMMON))?|KING))|UPHIA)|T(?:E(?:AR|MPTATION\\ KING|STAROSSA)|H(?:E\\ TEMPEST\\ FEDERATION|OUGHT\\ ACCELERATION|ROWER)|IME\\ TRAVEL|OUKA|R(?:EYNI|ISS|YA))|U(?:LT(?:IMA|RA\\ INSTINCT)|N(?:DEAD\\ ELF|IVERSAL\\ PERCEPTION))|V(?:E(?:NOM|YRON)|OI(?:CE\\ OF\\ THE\\ WORLD|D\\ GOD))|W(?:ISDOM\\ KING|ORLD\\ OF\\ TEMPTATION)|Y(?:O(?:DA|MIGAERI|U(?:KI|M))|UU(?:KI|RAZANIA))|ZONDA)",
     "terms": {
         "Rimuru": {
             "options": [
                 "Rimuru",
-                "Lime road",
-                "Rimuwu"
+                "Rimuwu",
+                "Lime road"
             ],
             "officialTermIndex": 0
         },
@@ -549,6 +549,13 @@
                 "Nicolaus"
             ],
             "officialTermIndex": 1
+        },
+        "Chronoa": {
+            "options": [
+                "Chronoa",
+                "Corona"
+            ],
+            "officialTermIndex": 0
         },
         "Hinata": {
             "options": [
@@ -1440,7 +1447,8 @@
             "options": [
                 "Siltorozzo",
                 "Seltrozzo",
-                "Siltorosso"
+                "Siltorosso",
+                "Seltrosso"
             ],
             "officialTermIndex": 1
         },
@@ -1689,31 +1697,35 @@
         "demon peer": {
             "options": [
                 "demon peer",
+                "Demon Peer",
                 "demon noble",
                 "demon lord"
             ],
-            "officialTermIndex": 0
+            "officialTermIndex": 1
         },
         "archdemon": {
             "options": [
                 "archdemon",
+                "Arch Demon",
                 "biggest devil"
             ],
-            "officialTermIndex": 0
+            "officialTermIndex": 1
         },
         "greater demon": {
             "options": [
                 "greater demon",
+                "Greater Demon",
                 "bigger devil"
             ],
-            "officialTermIndex": 0
+            "officialTermIndex": 1
         },
         "lesser demon": {
             "options": [
                 "lesser demon",
+                "Lesser Demon",
                 "smaller devil"
             ],
-            "officialTermIndex": 0
+            "officialTermIndex": 1
         },
         "devil chevalier": {
             "options": [
@@ -1777,6 +1789,13 @@
             "options": [
                 "Rabbitmen",
                 "Bunnybois"
+            ],
+            "officialTermIndex": 0
+        },
+        "Million-class": {
+            "options": [
+                "Million-class",
+                "Turbo Woke"
             ],
             "officialTermIndex": 0
         },
@@ -2039,7 +2058,8 @@
         ],
         "Shizu & kids": [
             "Aubert",
-            "Gale"
+            "Gale",
+            "Chronoa"
         ],
         "Ruminas’s servants": [
             "Nicolas"
@@ -2233,6 +2253,7 @@
             "demon lord",
             "rabbitmen",
             "Rabbitmen",
+            "Million-class",
             "Sage",
             "elf",
             "high elf",
